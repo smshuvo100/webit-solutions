@@ -17,7 +17,7 @@ const App: React.FC = () => {
       <main>
         <Hero />
         <Services />
-        <AIStrategist />
+        {/* <AIStrategist /> */}
         <WhyUs />
         <Industries />
         <Results />
