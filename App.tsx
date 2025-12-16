@@ -7,6 +7,7 @@ import Industries from './components/Industries';
 import Results from './components/Results';
 import AIStrategist from './components/AIStrategist';
 import ContactCTA from './components/ContactCTA';
+import LeadForm from './components/LeadForm';
 import Cursor from './components/Cursor';
 
 const App: React.FC = () => {
@@ -21,6 +22,7 @@ const App: React.FC = () => {
         <WhyUs />
         <Industries />
         <Results />
+        <LeadForm />
         <ContactCTA />
       </main>
     </div>
